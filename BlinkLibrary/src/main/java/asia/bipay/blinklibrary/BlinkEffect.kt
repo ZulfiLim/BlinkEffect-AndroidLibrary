@@ -11,7 +11,7 @@ object BlinkEffect {
     fun blink(view: View) {
         val animator: ObjectAnimator = ObjectAnimator.ofInt(
             view, "backgroundColor", Color.YELLOW,
-            Color.RED, Color.GREEN, Color.DKGRAY, Color.TRANSPARENT,
+            Color.RED, Color.GREEN,
         )
         animator.duration = 500
         animator.setEvaluator(ArgbEvaluator())
