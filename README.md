@@ -14,7 +14,7 @@ allprojects {
 Step 2. Add the dependency
 ```bash
 dependencies {
-	        implementation 'com.github.ZulfiLim:BlinkEffect-AndroidLibrary:Tag'
+	        implementation 'com.github.ZulfiLim:BlinkEffect-AndroidLibrary:master-SNAPSHOT'
 	}
 ```
 maven()
