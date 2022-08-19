@@ -1,4 +1,7 @@
 # Blink Effect (Android Library)
+
+[![](https://jitpack.io/v/ZulfiLim/BlinkEffect-AndroidLibrary.svg)](https://jitpack.io/#ZulfiLim/BlinkEffect-AndroidLibrary)
+
 Add it in your root build.gradle at the end of repositories:
 ```bash
 allprojects {
